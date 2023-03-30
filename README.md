@@ -9,6 +9,7 @@ To use this project, you need to install the following software:
 Apache Jena Fuseki
 Apache Jena
 Eclipse
+Java
 
 
 Usage
@@ -19,9 +20,9 @@ To access the data in the knowledge graph, you can use the SPARQL query language
 
 The following data sources were used to create the knowledge graph:
 
-DBpedia: A large-scale knowledge base containing structured data extracted from Wikipedia.
-Wikidata: A free and open knowledge base that can be read and edited by both humans and machines.
-OpenCitations: An open scholarly citation database that provides persistent identifiers for bibliographic citations and links to the cited works.
+-Reactome: a free and open-source curated database that provides a comprehensive and interconnected view of molecular events underlying biological pathways and processes.
+
+-ChEBI:is a freely available dictionary of molecular entities, including small molecules, ions, and peptides, which have been manually curated and annotated with chemical, biological, and structural information.
 
 
 License
